@@ -64,7 +64,7 @@ html {
 }
 body {
   font-family: "segoe ui light" !important ;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 .text-sm {
   font-size: 0.9rem;
